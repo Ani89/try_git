@@ -2,3 +2,6 @@ Welcome All
 
 Chicken
 Roti
+
+rice 
+sabji
